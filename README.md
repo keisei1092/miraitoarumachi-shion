@@ -1,7 +1,5 @@
 keisei feat. Hatsune Miku 1st Repository
-「ミライトアルマチ詩恩」
-
-Mirai To Aru Machi Shion
+「ミライトアルマチ詩恩」 Mirai To Aru Machi Shion
 
 # Intro
 
