@@ -1,7 +1,7 @@
-ミライトアルマチ詩恩
-
-keisei feat. 初音ミク 1st Repository
+keisei feat. Hatsune Miku 1st Repository
 「ミライトアルマチ詩恩」
+
+Mirai To Aru Machi Shion
 
 # Intro
 
